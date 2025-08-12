@@ -27,6 +27,7 @@ FIRECRAWL_API_KEY=your_firecrawl_api_key  # Get from https://firecrawl.dev (Web 
 ANTHROPIC_API_KEY=your_anthropic_api_key  # Get from https://console.anthropic.com
 OPENAI_API_KEY=your_openai_api_key  # Get from https://platform.openai.com (GPT-5)
 GROQ_API_KEY=your_groq_api_key  # Get from https://console.groq.com (Fast inference - Kimi K2 recommended)
+DEEPSEEK_API_KEY=your_deepseek_api_key  # Get from https://platform.deepseek.com (Code-focused models)
 ```
 
 3. **Run**

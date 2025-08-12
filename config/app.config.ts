@@ -34,14 +34,20 @@ export const appConfig = {
     availableModels: [
       'openai/gpt-5',
       'moonshotai/kimi-k2-instruct',
-      'anthropic/claude-sonnet-4-20250514'
+      'anthropic/claude-sonnet-4-20250514',
+      'deepseek/deepseek-coder',
+      'deepseek/deepseek-chat',
+      'deepseek/deepseek-llm-7b-chat'
     ],
     
     // Model display names
     modelDisplayNames: {
       'openai/gpt-5': 'GPT-5',
       'moonshotai/kimi-k2-instruct': 'Kimi K2 Instruct',
-      'anthropic/claude-sonnet-4-20250514': 'Sonnet 4'
+      'anthropic/claude-sonnet-4-20250514': 'Sonnet 4',
+      'deepseek/deepseek-coder': 'DeepSeek Coder',
+      'deepseek/deepseek-chat': 'DeepSeek Chat',
+      'deepseek/deepseek-llm-7b-chat': 'DeepSeek 7B Chat'
     },
     
     // Temperature settings for non-reasoning models
